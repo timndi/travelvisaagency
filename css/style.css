@@ -203,9 +203,9 @@ body {
     width: 80%;
   }
   .bottom-div{
-    color:white; 
+    /* color:white; 
     background-size: cover; 
-    padding:3rem;
+    padding:3rem; */
   }
 
   div.footer-bottom{  
@@ -269,7 +269,7 @@ body {
       }
 
       .bottom-div{
-        padding: 0 3% 3%;
+        padding: 0 3% 3% !important;
       }
 
   }
